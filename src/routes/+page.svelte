@@ -95,7 +95,7 @@
 
     <div class="banner">
         <a class="banner-text">Get My Resume  </a>
-        <a class="banner-text">  Get My CV  </a>
+        <a class="banner-text" href="/cv">  Get My CV  </a>
         <a class="banner-text">  Get My Qualifications  </a>
         <a class="banner-text">  See My Personal Work  </a>
     </div>
